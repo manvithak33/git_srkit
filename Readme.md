@@ -50,11 +50,13 @@ Git Structure::
          #git commit -m "some data"
          #config user name and email
          #if git contains previous user name and email check with git config --global user.name,
-         Similarly check user email with git config --global user.email
-         if you are not the user try to delete previous user data
-         Goto win+s Credential manager-windows credentials-remove git credentials
-         to remove username 'git config --global--unset user.name"lohithaboyina90"
-         to remove username and email also we can use
+         #Similarly check user email with git config --global user.email
+         #if you are not the user try to delete previous user data
+         #Goto win+s Credential manager-windows credentials-remove git credentials
+         #to remove username 'git config --global--unset user.name"lohithaboyina90"
+         # to remove username and email also we can use
                                git config --global --unset user.name
                                git config --global --unset user.email
+ *try to add full details of git commands
+*second time suggestions try to compete
                                
